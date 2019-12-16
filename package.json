@@ -1,6 +1,6 @@
 {
   "name": "@jiwon-genesislab/react-rollup",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "study react component",
   "main": "dist/index.js",
   "author": "jiwoniy",
